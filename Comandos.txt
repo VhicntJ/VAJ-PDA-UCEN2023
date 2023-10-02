@@ -1,0 +1,45 @@
+COMANDOS
+
+git status
+
+git add .             // de la fase de modificacion a la fase staging
+
+git status
+
+git checkout
+
+git add "nombre archivo"
+
+git commit -m "Cambiar fecha del readme" //pasa el archivo de staging a commit
+
+git push //sube todo lo del commit al archivo general
+
+git log --oneline
+
+git checkout "linea de codigo del commit (2e44525)"
+
+git checkout main
+
+git revert "codigo del commit (2e44525)"
+  (se escribe revertir "2e44525" en el archivo y luego se le da el check arriba a la derecha)
+    (git log --oneline)
+     (git reset 2e44525)
+
+git pull // para volver a lo que uno tiene en el github
+
+//crear branch
+
+git branch func-2
+    git checkout func-2
+    git push
+    git push --set-upstream origin func-2
+
+    git checkout main
+    git merge func-2 //fusionar func-2 con main
+    git push
+    git branch -D func-2
+    
+
+<body>
+<script src="assets/scripts/main.js"></script>
+</body>
