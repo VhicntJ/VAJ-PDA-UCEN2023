@@ -38,3 +38,16 @@ Para añadir espacios o márgenes
     6) padding-right: relleno desde la derecha hacia adentro
     7) padding-bottom: relleno desde abajo hacia adentro
     8) padding-left: relleno desde la izquierda hacia adentro
+
+
+img.(nombre de la clase) {
+
+}
+
+a img:hover{
+    transform: scale(1.2)
+}
+
+h2:hover{
+    
+}
