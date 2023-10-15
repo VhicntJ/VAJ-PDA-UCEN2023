@@ -1,0 +1,21 @@
+<p></p> Párrafos
+<a href=»»></a> Enlaces
+<b></b> Negritas
+<i></i> Cursivas
+<strong></strong> Negritas más gruesas
+<h1></h1> Encabezado o título 1
+<h2></h2> Encabezado o título 2
+<h3></h3> Encabezado o título 3
+<h4></h4> Encabezado o título 4
+<h5></h5> Encabezado o título 5
+<h6></h6> Encabezado o título 6
+<li></li> Elemento de lista
+<span></span> Selección de texto con un estilo determinado
+<u></u> Texto subrayado
+<em></em> Texto enfatizado
+<small></small> Texto pequeño
+<br /> Salto de línea (etiqueta única, no tiene cierre)
+<img src=»»> Para insertar una imagen. Con el código <img src=»URL de la imagen»> puedes poner en cualquier zona de widgets un banner o imagen que quieras. Te aconsejo que antes de obtener la URL de la imagen la subas a tu propia Biblioteca de Medios y de ahí obtengas la URL que después pegas en el código.
+<form></form> Formulario.
+<table></table> Tabla
+<iframe></iframe> Incrustar elementos de otras webs
