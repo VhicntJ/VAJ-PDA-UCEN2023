@@ -1,0 +1,40 @@
+html{
+    background-color: cadetblue;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-decoration: solid;
+    text-align: center;
+    text-shadow: 0 0 0.1em rgb(0, 255, 255);
+    
+}
+.front{
+    background-color: rgba(95, 158, 160, 0.774);
+    width: auto;
+    height: 100px;
+}
+
+.divF{
+    background-color: black;
+    
+}
+
+.divFondo{
+    width: 100%;
+    height: 1000px;
+    
+    
+}
+
+.bodys {
+    background-color: aquamarine;
+}
+
+.textoG{
+    text-align: justify;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
